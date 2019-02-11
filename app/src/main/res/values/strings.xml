@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XBird</string>
+    <string name="toast_text">New Fall Detected: {placeholder} ms</string>
+    <string name="record_fall_text">Fall took: {placeholder}  ms</string>
+    <string name="record_fall_timestamp">Recorded: {placeholder}</string>
+
+</resources>
